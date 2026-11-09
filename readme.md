@@ -20,3 +20,7 @@ A beginner-friendly Arduino-based smart parking system using an ultrasonic senso
 
 ## Project Level
 Beginner - First Year ECE
+
+
+## Wokwi Simulation
+(https://wokwi.com/projects/480231682996997121)
